@@ -39,6 +39,7 @@ In this project, I analyzed, classified and predicted churn customers for a tele
 •	In line with project outcome, I selected the best performing model out of the top four because of the required metrics for the business – Precision & Recall scores. 
 
 
+
 ## Some Insights from the EDA
 
  ![output_94_0](https://github.com/UzorNwokeaka/Customer-Churn-Prediction-Project/assets/128752357/8615781b-727e-461b-a172-e007188b009e)
