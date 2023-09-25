@@ -34,6 +34,7 @@ In this project, I analyzed, classified and predicted churn customers for a tele
 ## Modeling 
 
 •	Built eight (8) models and selected the top performing four (4) models.
+
 •	In line with project outcome, I selected the best performing model out of the top four because of the required metrics for the business – Precision & Recall scores. 
 
 
