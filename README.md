@@ -12,7 +12,7 @@ In this project, I analyzed, classified and predicted churn customers for a tele
 
 •	Python version: 3.11.4
 
-•	Libraries: numpy, pandas, matplotlib, seaborn, sklearn
+•	Libraries: numpy, pandas, matplotlib, seaborn, sklearn.
 
 ## Data Cleaning
 
